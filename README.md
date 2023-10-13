@@ -6,7 +6,7 @@ This project will include the following but not limited to:
 - Exploratory Data Analysis (EDA) & Visualisation
 - Python
 - R (TBC)
-- Tableau (TBC)
+- Tableau (possible removal)
 
 Link: https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023
 
